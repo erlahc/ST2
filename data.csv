@@ -1,0 +1,6 @@
+country;entity;segment;horizon;scenario;outstanding_S1;outstanding_S2;outstanding_S3;provision_S1;provision_S2;provision_S3
+France;CACFFR;Retail;2018;initial;1000;400;200;10;60;100
+France;CACFFR;SME;2018;initial;2000;600;250;30;55;80
+Italy;AGOS;Retail;2018;initial;500;400;200;20;60;100
+Italy;AGOS;Auto;2018;initial;1500;400;200;15;75;150
+Italy;AGOS;Auto;2018;initial;1500;400;200;15;75;200
